@@ -53,7 +53,7 @@ class _MtOfferStatusDetailsState extends State<MtOfferStatusDetails> {
                   )),
             ),
             title: Text(
-              'Rise of Kingdoms: Lost Crus...',
+              'Rise of Kingdoms: ...',
               style: kTextStyle.copyWith(color: Colors.white),
             ),
             subtitle: Text(
